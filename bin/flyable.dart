@@ -1,0 +1,5 @@
+class flyable{
+  void terbang(){
+
+}
+}
